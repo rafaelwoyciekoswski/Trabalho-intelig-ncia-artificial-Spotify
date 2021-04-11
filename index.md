@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+#RESUMO 
 
-You can use the [editor on GitHub](https://github.com/rafaelwoyciekoswski/trabalho-inteligencia-artificial-spotify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O presente trabalho visa estudar os impactos do uso da Inteligência Artificial (IA) no processo de criação de experiências personalizadas dentro da plataforma de streaming Spotify, mais precisamente na playlist de Descobertas da Semana. As possibilidades de criação de experiências personalizadas na área da música com o uso da IA ainda estão sendo descobertas. Nesse contexto, uma dessas práticas ganha cada vez mais espaço nessa nova dinâmica de experiência e de consumo de música: a de recomendação de conteúdo personalizado para o usuário. Nesse sentido, o processo de investigação é orientado pela seguinte pergunta-problema: “Como os usuários percebem as novas experiências personalizadas criadas no Spotify por meio da IA?” Para encontrar respostas a essa questão, a pesquisa foi conduzida em duas etapas. Na primeira delas, foi realizada uma observação exploratória da interface da plataforma digital, com a finalidade de coletar dados qualitativos e descrever as dinâmicas da experiência de consumo de música de forma personalizada. Já a segunda etapa envolveu a aplicação de entrevistas semiestruturadas em profundidade com usuários da plataforma de streaming de música. Isso foi feito com o intuito de compreender suas percepções sobre a criação de experiências personalizadas através da playlist Descobertas da Semana. Os resultados indicam que os usuários percebem a existência de uma personalização da experiência musical, a qual é criada automaticamente pela plataforma digital; mas, em grande parte, não associam essas novas dinâmicas comunicacionais aos processos de análise e interpretação de dados do usuário por algoritmos, códigos computacionais e inteligências artificiais. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelwoyciekoswski/trabalho-inteligencia-artificial-spotify/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Palavras-chave: Spotify, Música, Inteligência Artificial, Experiências Personalizadas, Consumo de streaming.  **
